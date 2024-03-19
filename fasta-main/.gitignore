@@ -1,0 +1,48 @@
+# Prerequisites
+*.d
+
+# Compiled object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+*.dSYM
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Python interface
+*.pyc
+
+# Editor artifacts
+*.swp
+*.swo
+
+# Project specific
+*~
+/makefile.inc
+/tests/test
+/tests/gtest/
+/build
+/debug
